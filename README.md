@@ -5,13 +5,20 @@ This is a sample code for running the SPARSY on Citeseer dataset
 
 **1.Requirements**
 
-networkx==2.8,.8
+networkx==2.8.8
+
 scipy==1.9.3,
+
 setuptools==40.6.3,
+
 numpy==1.23.4,
+
 torch==1.12.1
+
 torch_geometric = 2.1.0
-metis = 0.2a5 (in)
+
+metis = 0.2a5
+
 scikit-learn=1.1.3
 
 **2.Installing metis on Ubuntu**
