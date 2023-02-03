@@ -41,4 +41,5 @@ scikit-learn=1.1.3
 2.We provide you sample partitions in this folder, which are named as Citeseer_bm.npy, Citeseer_km.npy and Citeseer_metis.py
 
 **5.Example**
-  	python main.py. #or you need to set the above parameters to decide how to remove edges. 
+  	
+      python main.py. #or you need to set the above parameters to decide how to remove edges. 
