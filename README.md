@@ -21,6 +21,7 @@ scikit-learn=1.1.3
 **3.Datasets**
 
 **4.Options**
+
 --top_k_degree      choose top-k nodes based no the degree
 --size_clique       decide which size of clique will be processed
 --percent_edges     decide how many percentage of edges will be removed
