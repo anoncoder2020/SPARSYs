@@ -1,4 +1,4 @@
-# Enhancing-Spectral-based-GNNs-with-Structure-aware-Sparsifiers
+# Enhancing Spectral based GNNs with Structure-aware Sparsifiers
 
 
 This is a sample code for running the SPARSY on Citeseer dataset
